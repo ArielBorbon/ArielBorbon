@@ -6,6 +6,8 @@
 
 Software Developer with expertise in full-stack development, mobile applications, and cloud technologies. Passionate about creating innovative solutions that leverage cutting-edge technologies to solve real-world problems.
 
+I’m passionate about learning, experimenting, and pushing my limits as a developer. Whether it’s a personal project or a complex challenge, I enjoy the process of building, failing, and improving every day.
+
 </td>
 <td>
 
