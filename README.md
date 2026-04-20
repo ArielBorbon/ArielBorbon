@@ -1,3 +1,5 @@
+<img align="right" src="https://media1.tenor.com/m/aGsOxo7R4l0AAAAC/miku-channelcastation.gif" width="250" height="250">
+
 
 ## Hi, I'm Ariel 👋
 
