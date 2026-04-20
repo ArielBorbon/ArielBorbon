@@ -1,4 +1,4 @@
-<img align="right" src="https://media1.tenor.com/m/aGsOxo7R4l0AAAAC/miku-channelcastation.gif" width="250" height="250">
+<img align="right" src="https://i.pinimg.com/originals/ef/3e/a0/ef3ea0459ddcd0d47f798a1784e9c518.gif" width="250" height="250">
 
 
 ## Hi, I'm Ariel 👋
