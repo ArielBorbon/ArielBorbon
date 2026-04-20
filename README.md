@@ -1,9 +1,19 @@
-<img align="right" src="MikuGif.gif" width="250" height="250">
-
+<table>
+<tr>
+<td>
 
 ## Hi, I'm Ariel 👋
 
 Software Developer with expertise in full-stack development, mobile applications, and cloud technologies. Passionate about creating innovative solutions that leverage cutting-edge technologies to solve real-world problems.
+
+</td>
+<td>
+
+<img src="MikuGif.gif" width="250">
+
+</td>
+</tr>
+</table>
 
 ### 🛠 &nbsp;Languages & Frameworks
 
