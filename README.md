@@ -8,6 +8,9 @@ Software Developer with expertise in full-stack development, mobile applications
 
 I’m passionate about learning, experimenting, and pushing my limits as a developer. Whether it’s a personal project or a complex challenge, I enjoy the process of building, failing, and improving every day.
 
+📫 How to reach me @arielborbon2911@gmail.com
+⚡ Fun fact I am a big Hatsune Miku Fan!
+
 </td>
 <td>
 
