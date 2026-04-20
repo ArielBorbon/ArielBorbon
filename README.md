@@ -1,4 +1,4 @@
-<img align="right" src="MikuGifgif" width="250" height="250">
+<img align="right" src="MikuGif.gif" width="250" height="250">
 
 
 ## Hi, I'm Ariel 👋
